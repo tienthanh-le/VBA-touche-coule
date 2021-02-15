@@ -2,11 +2,12 @@
 
 # Introduction
 
-1.  C’est quoi ce jeu ?
+* C’est quoi ce jeu ?
+
 Battleship (également Battleships ou Sea Battle) est un jeu de devinettes de type stratégie pour deux joueurs. Il se joue sur des grilles réglées (papier ou carton) sur lesquelles la flotte de navires de chaque joueur (y compris les cuirassés) est marquée. Les emplacements des flottes sont cachés à l'autre joueur. Les joueurs alternent leurs tours en appelant des « coups » sur les navires de l'autre joueur, et l'objectif du jeu est de détruire la flotte du joueur adverse.
 Battleship est connu dans le monde entier comme un jeu de crayon et de papier datant de la Première Guerre mondiale. Le jeu a engendré des versions électroniques, des jeux vidéo, des applications pour appareils intelligents et un film.
 
-2.  Comprendre les règles du jeu 
+* Comprendre les règles du jeu 
 
 Après avoir cherché sur Wikipédia voici les règles que nous avons synthétisées. Le jeu se joue sur quatre grilles, deux pour chaque joueur. Les grilles sont généralement carrées - généralement 10 × 10 - et les carrés individuels de la grille sont identifiés par une lettre et un chiffre.  Sur une grille, le joueur organise les navires et enregistre les tirs de l'adversaire. Sur l'autre grille, le joueur enregistre ses propres coups.
 Avant le début du jeu, chaque joueur arrange secrètement ses vaisseaux sur sa grille principale. Chaque navire occupe un certain nombre de carrés consécutifs sur la grille, disposés horizontalement ou verticalement. Le nombre de carrés pour chaque navire est déterminé par le type de navire. Les navires ne peuvent pas se chevaucher (c'est-à-dire qu'un seul navire peut occuper une case donnée de la grille). Les types et le nombre de navires autorisés sont les mêmes pour chaque joueur. Celles-ci peuvent varier en fonction des règles.
